@@ -25,6 +25,11 @@
             public function getColor(){
 
             }
+            
+            public function setColor(){
+
+            }
+
      
         }
         ?>
