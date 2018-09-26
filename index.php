@@ -35,7 +35,7 @@
             }
             
             public function fantasma(){
-
+                echo "Hola soc un fantasma!<br>";
             }
             
         }
