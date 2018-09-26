@@ -21,6 +21,11 @@
                 $this->tamany = $tamany;
             }
             
+            //Metodes
+            public function getColor(){
+
+            }
+     
         }
         ?>
     </body>
