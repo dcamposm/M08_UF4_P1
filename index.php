@@ -33,6 +33,11 @@
             public function suma(){
 
             }
+            
+            public function fantasma(){
+
+            }
+            
         }
         ?>
     </body>
