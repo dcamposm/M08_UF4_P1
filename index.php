@@ -30,7 +30,9 @@
 
             }
 
-     
+            public function suma(){
+
+            }
         }
         ?>
     </body>
