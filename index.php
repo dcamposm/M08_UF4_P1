@@ -35,7 +35,7 @@
             }
             
             public function fantasma(){
-                echo 2+2;
+                
             }
             
         }
